@@ -1,0 +1,2 @@
+12/09/2025 16:14:40 - Device added: prem, prem
+12/09/2025 16:15:15 - Status updated for prem: online
