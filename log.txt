@@ -1,2 +1,7 @@
 12/09/2025 16:14:40 - Device added: prem, prem
 12/09/2025 16:15:15 - Status updated for prem: online
+12/14/2025 12:10:20 - Device Added: prem - prem-name
+12/14/2025 12:12:18 - Status Updated: prem → online
+12/14/2025 12:13:19 - Device Added: harry - harry-name
+12/14/2025 12:21:04 - Device Added: scott - scott-name
+12/14/2025 12:22:53 - Status Updated: scott → online

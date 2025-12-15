@@ -1,1 +1,1 @@
-[{"Id":"prem","Name":"prem","IpAddress":"prem","Status":"online"}]
+[{"Id":"prem","Name":"prem-name","IpAddress":"00000000","Status":"online","LastUpdated":"2025-12-14T12:12:18.0120832+00:00"},{"Id":"harry","Name":"harry-name","IpAddress":"00000","Status":"offline","LastUpdated":"2025-12-14T12:13:19.2712343+00:00"},{"Id":"scott","Name":"scott-name","IpAddress":"11111","Status":"online","LastUpdated":"2025-12-14T12:22:53.8954394+00:00"}]
